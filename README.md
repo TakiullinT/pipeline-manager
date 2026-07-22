@@ -68,7 +68,7 @@ curl -X POST http://localhost:8080/pipelines
 
 ```
 
-*Вывод: `{"id": "e12fb126...", "nodes": [], "edges": {}}*`
+*Вывод: `{"id": "e12fb126...", "nodes": [], "edges": {}}`*
 
 **2. Добавление узлов:**
 
